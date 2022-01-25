@@ -1,0 +1,7 @@
+D:\assignments\print number 1 to 10\print number 1 to 10\bin\Debug\print number 1 to 10.exe.config
+D:\assignments\print number 1 to 10\print number 1 to 10\bin\Debug\print number 1 to 10.exe
+D:\assignments\print number 1 to 10\print number 1 to 10\bin\Debug\print number 1 to 10.pdb
+D:\assignments\print number 1 to 10\print number 1 to 10\obj\Debug\print number 1 to 10.csproj.SuggestedBindingRedirects.cache
+D:\assignments\print number 1 to 10\print number 1 to 10\obj\Debug\print number 1 to 10.csproj.CoreCompileInputs.cache
+D:\assignments\print number 1 to 10\print number 1 to 10\obj\Debug\print number 1 to 10.exe
+D:\assignments\print number 1 to 10\print number 1 to 10\obj\Debug\print number 1 to 10.pdb

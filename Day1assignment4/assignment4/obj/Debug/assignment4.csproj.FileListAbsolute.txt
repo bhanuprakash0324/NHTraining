@@ -1,0 +1,11 @@
+D:\assignments\assignment4\assignment4\obj\Debug\assignment4.csproj.AssemblyReference.cache
+D:\assignments\assignment4\assignment4\obj\Debug\assignment4.csproj.SuggestedBindingRedirects.cache
+D:\assignments\assignment4\assignment4\obj\Debug\assignment4.Form1.resources
+D:\assignments\assignment4\assignment4\obj\Debug\assignment4.Properties.Resources.resources
+D:\assignments\assignment4\assignment4\obj\Debug\assignment4.csproj.GenerateResource.cache
+D:\assignments\assignment4\assignment4\obj\Debug\assignment4.csproj.CoreCompileInputs.cache
+D:\assignments\assignment4\assignment4\bin\Debug\assignment4.exe.config
+D:\assignments\assignment4\assignment4\bin\Debug\assignment4.exe
+D:\assignments\assignment4\assignment4\bin\Debug\assignment4.pdb
+D:\assignments\assignment4\assignment4\obj\Debug\assignment4.exe
+D:\assignments\assignment4\assignment4\obj\Debug\assignment4.pdb

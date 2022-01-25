@@ -1,0 +1,8 @@
+D:\assignments\Hello 5 times\Hello 5 times\bin\Debug\Hello 5 times.exe.config
+D:\assignments\Hello 5 times\Hello 5 times\bin\Debug\Hello 5 times.exe
+D:\assignments\Hello 5 times\Hello 5 times\bin\Debug\Hello 5 times.pdb
+D:\assignments\Hello 5 times\Hello 5 times\obj\Debug\Hello 5 times.csproj.AssemblyReference.cache
+D:\assignments\Hello 5 times\Hello 5 times\obj\Debug\Hello 5 times.csproj.SuggestedBindingRedirects.cache
+D:\assignments\Hello 5 times\Hello 5 times\obj\Debug\Hello 5 times.csproj.CoreCompileInputs.cache
+D:\assignments\Hello 5 times\Hello 5 times\obj\Debug\Hello 5 times.exe
+D:\assignments\Hello 5 times\Hello 5 times\obj\Debug\Hello 5 times.pdb
