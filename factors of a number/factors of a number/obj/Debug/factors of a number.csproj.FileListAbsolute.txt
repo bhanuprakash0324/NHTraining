@@ -1,0 +1,7 @@
+D:\assignments\factors of a number\factors of a number\bin\Debug\factors of a number.exe.config
+D:\assignments\factors of a number\factors of a number\bin\Debug\factors of a number.exe
+D:\assignments\factors of a number\factors of a number\bin\Debug\factors of a number.pdb
+D:\assignments\factors of a number\factors of a number\obj\Debug\factors of a number.csproj.SuggestedBindingRedirects.cache
+D:\assignments\factors of a number\factors of a number\obj\Debug\factors of a number.csproj.CoreCompileInputs.cache
+D:\assignments\factors of a number\factors of a number\obj\Debug\factors of a number.exe
+D:\assignments\factors of a number\factors of a number\obj\Debug\factors of a number.pdb

@@ -1,0 +1,7 @@
+D:\assignments\factorial of a number\factorial of a number\bin\Debug\factorial of a number.exe.config
+D:\assignments\factorial of a number\factorial of a number\bin\Debug\factorial of a number.exe
+D:\assignments\factorial of a number\factorial of a number\bin\Debug\factorial of a number.pdb
+D:\assignments\factorial of a number\factorial of a number\obj\Debug\factorial of a number.csproj.SuggestedBindingRedirects.cache
+D:\assignments\factorial of a number\factorial of a number\obj\Debug\factorial of a number.csproj.CoreCompileInputs.cache
+D:\assignments\factorial of a number\factorial of a number\obj\Debug\factorial of a number.exe
+D:\assignments\factorial of a number\factorial of a number\obj\Debug\factorial of a number.pdb

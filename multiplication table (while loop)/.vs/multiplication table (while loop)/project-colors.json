@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0effc94-fa2d-495e-8081-2dc7e96ed24e": {
+      "ProjectGuid": "a0effc94-fa2d-495e-8081-2dc7e96ed24e",
+      "DisplayName": "multiplication table (while loop)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

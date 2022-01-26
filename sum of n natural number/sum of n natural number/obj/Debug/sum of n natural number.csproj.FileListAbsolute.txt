@@ -1,0 +1,8 @@
+D:\assignments\sum of n natural number\sum of n natural number\bin\Debug\sum of n natural number.exe.config
+D:\assignments\sum of n natural number\sum of n natural number\bin\Debug\sum of n natural number.exe
+D:\assignments\sum of n natural number\sum of n natural number\bin\Debug\sum of n natural number.pdb
+D:\assignments\sum of n natural number\sum of n natural number\obj\Debug\sum of n natural number.csproj.AssemblyReference.cache
+D:\assignments\sum of n natural number\sum of n natural number\obj\Debug\sum of n natural number.csproj.SuggestedBindingRedirects.cache
+D:\assignments\sum of n natural number\sum of n natural number\obj\Debug\sum of n natural number.csproj.CoreCompileInputs.cache
+D:\assignments\sum of n natural number\sum of n natural number\obj\Debug\sum of n natural number.exe
+D:\assignments\sum of n natural number\sum of n natural number\obj\Debug\sum of n natural number.pdb

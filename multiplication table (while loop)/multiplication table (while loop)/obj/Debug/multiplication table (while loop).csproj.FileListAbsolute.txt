@@ -1,0 +1,7 @@
+D:\assignments\multiplication table (while loop)\multiplication table (while loop)\obj\Debug\multiplication table (while loop).csproj.SuggestedBindingRedirects.cache
+D:\assignments\multiplication table (while loop)\multiplication table (while loop)\obj\Debug\multiplication table (while loop).csproj.CoreCompileInputs.cache
+D:\assignments\multiplication table (while loop)\multiplication table (while loop)\bin\Debug\multiplication table (while loop).exe.config
+D:\assignments\multiplication table (while loop)\multiplication table (while loop)\bin\Debug\multiplication table (while loop).exe
+D:\assignments\multiplication table (while loop)\multiplication table (while loop)\bin\Debug\multiplication table (while loop).pdb
+D:\assignments\multiplication table (while loop)\multiplication table (while loop)\obj\Debug\multiplication table (while loop).exe
+D:\assignments\multiplication table (while loop)\multiplication table (while loop)\obj\Debug\multiplication table (while loop).pdb

@@ -1,0 +1,7 @@
+D:\assignments\multipliaction table ( flower bracket)\multipliaction table ( flower bracket)\bin\Debug\multipliaction table ( flower bracket).exe.config
+D:\assignments\multipliaction table ( flower bracket)\multipliaction table ( flower bracket)\bin\Debug\multipliaction table ( flower bracket).exe
+D:\assignments\multipliaction table ( flower bracket)\multipliaction table ( flower bracket)\bin\Debug\multipliaction table ( flower bracket).pdb
+D:\assignments\multipliaction table ( flower bracket)\multipliaction table ( flower bracket)\obj\Debug\multipliaction table ( flower bracket).csproj.SuggestedBindingRedirects.cache
+D:\assignments\multipliaction table ( flower bracket)\multipliaction table ( flower bracket)\obj\Debug\multipliaction table ( flower bracket).csproj.CoreCompileInputs.cache
+D:\assignments\multipliaction table ( flower bracket)\multipliaction table ( flower bracket)\obj\Debug\multipliaction table ( flower bracket).exe
+D:\assignments\multipliaction table ( flower bracket)\multipliaction table ( flower bracket)\obj\Debug\multipliaction table ( flower bracket).pdb

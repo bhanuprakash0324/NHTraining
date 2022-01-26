@@ -1,0 +1,8 @@
+D:\assignments\Multipliaction table of a number\Multipliaction table of a number\obj\Debug\Multipliaction table of a number.csproj.AssemblyReference.cache
+D:\assignments\Multipliaction table of a number\Multipliaction table of a number\obj\Debug\Multipliaction table of a number.csproj.SuggestedBindingRedirects.cache
+D:\assignments\Multipliaction table of a number\Multipliaction table of a number\obj\Debug\Multipliaction table of a number.csproj.CoreCompileInputs.cache
+D:\assignments\Multipliaction table of a number\Multipliaction table of a number\bin\Debug\Multipliaction table of a number.exe.config
+D:\assignments\Multipliaction table of a number\Multipliaction table of a number\bin\Debug\Multipliaction table of a number.exe
+D:\assignments\Multipliaction table of a number\Multipliaction table of a number\bin\Debug\Multipliaction table of a number.pdb
+D:\assignments\Multipliaction table of a number\Multipliaction table of a number\obj\Debug\Multipliaction table of a number.exe
+D:\assignments\Multipliaction table of a number\Multipliaction table of a number\obj\Debug\Multipliaction table of a number.pdb
