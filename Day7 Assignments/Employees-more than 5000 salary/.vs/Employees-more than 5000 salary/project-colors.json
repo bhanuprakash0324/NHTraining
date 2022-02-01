@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "626bde02-6182-48d1-a647-a9531f0c30a0": {
+      "ProjectGuid": "626bde02-6182-48d1-a647-a9531f0c30a0",
+      "DisplayName": "Employees-more than 5000 salary",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

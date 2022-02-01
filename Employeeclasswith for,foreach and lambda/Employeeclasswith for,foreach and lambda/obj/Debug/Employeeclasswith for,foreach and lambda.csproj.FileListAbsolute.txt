@@ -1,0 +1,8 @@
+D:\assignments\Employeeclasswith for,foreach and lambda\Employeeclasswith for,foreach and lambda\bin\Debug\Employeeclasswith for,foreach and lambda.exe.config
+D:\assignments\Employeeclasswith for,foreach and lambda\Employeeclasswith for,foreach and lambda\bin\Debug\Employeeclasswith for,foreach and lambda.exe
+D:\assignments\Employeeclasswith for,foreach and lambda\Employeeclasswith for,foreach and lambda\bin\Debug\Employeeclasswith for,foreach and lambda.pdb
+D:\assignments\Employeeclasswith for,foreach and lambda\Employeeclasswith for,foreach and lambda\obj\Debug\Employeeclasswith for,foreach and lambda.csproj.AssemblyReference.cache
+D:\assignments\Employeeclasswith for,foreach and lambda\Employeeclasswith for,foreach and lambda\obj\Debug\Employeeclasswith for,foreach and lambda.csproj.SuggestedBindingRedirects.cache
+D:\assignments\Employeeclasswith for,foreach and lambda\Employeeclasswith for,foreach and lambda\obj\Debug\Employeeclasswith for,foreach and lambda.csproj.CoreCompileInputs.cache
+D:\assignments\Employeeclasswith for,foreach and lambda\Employeeclasswith for,foreach and lambda\obj\Debug\Employeeclasswith for,foreach and lambda.exe
+D:\assignments\Employeeclasswith for,foreach and lambda\Employeeclasswith for,foreach and lambda\obj\Debug\Employeeclasswith for,foreach and lambda.pdb

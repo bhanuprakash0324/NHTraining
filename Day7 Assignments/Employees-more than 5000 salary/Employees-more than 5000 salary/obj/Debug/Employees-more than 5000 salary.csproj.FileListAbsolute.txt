@@ -1,0 +1,8 @@
+D:\assignments\Employees-more than 5000 salary\Employees-more than 5000 salary\bin\Debug\Employees-more than 5000 salary.exe.config
+D:\assignments\Employees-more than 5000 salary\Employees-more than 5000 salary\bin\Debug\Employees-more than 5000 salary.exe
+D:\assignments\Employees-more than 5000 salary\Employees-more than 5000 salary\bin\Debug\Employees-more than 5000 salary.pdb
+D:\assignments\Employees-more than 5000 salary\Employees-more than 5000 salary\obj\Debug\Employees-more than 5000 salary.csproj.AssemblyReference.cache
+D:\assignments\Employees-more than 5000 salary\Employees-more than 5000 salary\obj\Debug\Employees-more than 5000 salary.csproj.SuggestedBindingRedirects.cache
+D:\assignments\Employees-more than 5000 salary\Employees-more than 5000 salary\obj\Debug\Employees-more than 5000 salary.csproj.CoreCompileInputs.cache
+D:\assignments\Employees-more than 5000 salary\Employees-more than 5000 salary\obj\Debug\Employees-more than 5000 salary.exe
+D:\assignments\Employees-more than 5000 salary\Employees-more than 5000 salary\obj\Debug\Employees-more than 5000 salary.pdb

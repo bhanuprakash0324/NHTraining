@@ -1,0 +1,8 @@
+D:\assignments\classwith3publicvariables\classwith3publicvariables\bin\Debug\classwith3publicvariables.exe.config
+D:\assignments\classwith3publicvariables\classwith3publicvariables\bin\Debug\classwith3publicvariables.exe
+D:\assignments\classwith3publicvariables\classwith3publicvariables\bin\Debug\classwith3publicvariables.pdb
+D:\assignments\classwith3publicvariables\classwith3publicvariables\obj\Debug\classwith3publicvariables.csproj.AssemblyReference.cache
+D:\assignments\classwith3publicvariables\classwith3publicvariables\obj\Debug\classwith3publicvariables.csproj.SuggestedBindingRedirects.cache
+D:\assignments\classwith3publicvariables\classwith3publicvariables\obj\Debug\classwith3publicvariables.csproj.CoreCompileInputs.cache
+D:\assignments\classwith3publicvariables\classwith3publicvariables\obj\Debug\classwith3publicvariables.exe
+D:\assignments\classwith3publicvariables\classwith3publicvariables\obj\Debug\classwith3publicvariables.pdb

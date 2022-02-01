@@ -1,0 +1,8 @@
+D:\assignments\QuizApplication\QuizApplication\bin\Debug\QuizApplication.exe.config
+D:\assignments\QuizApplication\QuizApplication\bin\Debug\QuizApplication.exe
+D:\assignments\QuizApplication\QuizApplication\bin\Debug\QuizApplication.pdb
+D:\assignments\QuizApplication\QuizApplication\obj\Debug\QuizApplication.csproj.AssemblyReference.cache
+D:\assignments\QuizApplication\QuizApplication\obj\Debug\QuizApplication.csproj.SuggestedBindingRedirects.cache
+D:\assignments\QuizApplication\QuizApplication\obj\Debug\QuizApplication.csproj.CoreCompileInputs.cache
+D:\assignments\QuizApplication\QuizApplication\obj\Debug\QuizApplication.exe
+D:\assignments\QuizApplication\QuizApplication\obj\Debug\QuizApplication.pdb

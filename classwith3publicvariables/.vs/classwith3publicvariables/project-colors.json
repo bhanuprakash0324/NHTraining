@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d6fc12ac-c236-42c9-ad18-4b09e8a0f0ad": {
+      "ProjectGuid": "d6fc12ac-c236-42c9-ad18-4b09e8a0f0ad",
+      "DisplayName": "classwith3publicvariables",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+D:\assignments\VowelorNot\VowelorNot\bin\Debug\VowelorNot.exe.config
+D:\assignments\VowelorNot\VowelorNot\bin\Debug\VowelorNot.exe
+D:\assignments\VowelorNot\VowelorNot\bin\Debug\VowelorNot.pdb
+D:\assignments\VowelorNot\VowelorNot\obj\Debug\VowelorNot.csproj.AssemblyReference.cache
+D:\assignments\VowelorNot\VowelorNot\obj\Debug\VowelorNot.csproj.SuggestedBindingRedirects.cache
+D:\assignments\VowelorNot\VowelorNot\obj\Debug\VowelorNot.csproj.CoreCompileInputs.cache
+D:\assignments\VowelorNot\VowelorNot\obj\Debug\VowelorNot.exe
+D:\assignments\VowelorNot\VowelorNot\obj\Debug\VowelorNot.pdb

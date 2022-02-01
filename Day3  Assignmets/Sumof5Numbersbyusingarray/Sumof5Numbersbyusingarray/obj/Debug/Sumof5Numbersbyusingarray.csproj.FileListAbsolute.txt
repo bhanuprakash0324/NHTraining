@@ -1,0 +1,8 @@
+D:\assignments\Sumof5Numbersbyusingarray\Sumof5Numbersbyusingarray\bin\Debug\Sumof5Numbersbyusingarray.exe.config
+D:\assignments\Sumof5Numbersbyusingarray\Sumof5Numbersbyusingarray\bin\Debug\Sumof5Numbersbyusingarray.exe
+D:\assignments\Sumof5Numbersbyusingarray\Sumof5Numbersbyusingarray\bin\Debug\Sumof5Numbersbyusingarray.pdb
+D:\assignments\Sumof5Numbersbyusingarray\Sumof5Numbersbyusingarray\obj\Debug\Sumof5Numbersbyusingarray.csproj.AssemblyReference.cache
+D:\assignments\Sumof5Numbersbyusingarray\Sumof5Numbersbyusingarray\obj\Debug\Sumof5Numbersbyusingarray.csproj.SuggestedBindingRedirects.cache
+D:\assignments\Sumof5Numbersbyusingarray\Sumof5Numbersbyusingarray\obj\Debug\Sumof5Numbersbyusingarray.csproj.CoreCompileInputs.cache
+D:\assignments\Sumof5Numbersbyusingarray\Sumof5Numbersbyusingarray\obj\Debug\Sumof5Numbersbyusingarray.exe
+D:\assignments\Sumof5Numbersbyusingarray\Sumof5Numbersbyusingarray\obj\Debug\Sumof5Numbersbyusingarray.pdb
