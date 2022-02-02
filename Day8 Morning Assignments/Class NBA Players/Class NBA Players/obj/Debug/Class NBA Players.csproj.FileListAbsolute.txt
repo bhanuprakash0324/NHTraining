@@ -1,0 +1,8 @@
+D:\assignments\Class NBA Players\Class NBA Players\bin\Debug\Class NBA Players.exe.config
+D:\assignments\Class NBA Players\Class NBA Players\bin\Debug\Class NBA Players.exe
+D:\assignments\Class NBA Players\Class NBA Players\bin\Debug\Class NBA Players.pdb
+D:\assignments\Class NBA Players\Class NBA Players\obj\Debug\Class NBA Players.csproj.AssemblyReference.cache
+D:\assignments\Class NBA Players\Class NBA Players\obj\Debug\Class NBA Players.csproj.SuggestedBindingRedirects.cache
+D:\assignments\Class NBA Players\Class NBA Players\obj\Debug\Class NBA Players.csproj.CoreCompileInputs.cache
+D:\assignments\Class NBA Players\Class NBA Players\obj\Debug\Class NBA Players.exe
+D:\assignments\Class NBA Players\Class NBA Players\obj\Debug\Class NBA Players.pdb

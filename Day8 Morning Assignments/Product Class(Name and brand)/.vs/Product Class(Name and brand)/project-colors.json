@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4e5d39a5-301d-47c9-809e-ac0d4538bdb4": {
+      "ProjectGuid": "4e5d39a5-301d-47c9-809e-ac0d4538bdb4",
+      "DisplayName": "Product Class(Name and brand)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

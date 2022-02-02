@@ -1,0 +1,8 @@
+D:\assignments\Product Class(Name and brand)\Product Class(Name and brand)\bin\Debug\Product Class(Name and brand).exe.config
+D:\assignments\Product Class(Name and brand)\Product Class(Name and brand)\bin\Debug\Product Class(Name and brand).exe
+D:\assignments\Product Class(Name and brand)\Product Class(Name and brand)\bin\Debug\Product Class(Name and brand).pdb
+D:\assignments\Product Class(Name and brand)\Product Class(Name and brand)\obj\Debug\Product Class(Name and brand).csproj.AssemblyReference.cache
+D:\assignments\Product Class(Name and brand)\Product Class(Name and brand)\obj\Debug\Product Class(Name and brand).csproj.SuggestedBindingRedirects.cache
+D:\assignments\Product Class(Name and brand)\Product Class(Name and brand)\obj\Debug\Product Class(Name and brand).csproj.CoreCompileInputs.cache
+D:\assignments\Product Class(Name and brand)\Product Class(Name and brand)\obj\Debug\Product Class(Name and brand).exe
+D:\assignments\Product Class(Name and brand)\Product Class(Name and brand)\obj\Debug\Product Class(Name and brand).pdb

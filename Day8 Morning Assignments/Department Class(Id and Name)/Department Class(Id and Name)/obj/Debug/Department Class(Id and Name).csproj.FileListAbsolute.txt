@@ -1,0 +1,8 @@
+D:\assignments\Department Class(Id and Name)\Department Class(Id and Name)\bin\Debug\Department Class(Id and Name).exe.config
+D:\assignments\Department Class(Id and Name)\Department Class(Id and Name)\bin\Debug\Department Class(Id and Name).exe
+D:\assignments\Department Class(Id and Name)\Department Class(Id and Name)\bin\Debug\Department Class(Id and Name).pdb
+D:\assignments\Department Class(Id and Name)\Department Class(Id and Name)\obj\Debug\Department Class(Id and Name).csproj.AssemblyReference.cache
+D:\assignments\Department Class(Id and Name)\Department Class(Id and Name)\obj\Debug\Department Class(Id and Name).csproj.SuggestedBindingRedirects.cache
+D:\assignments\Department Class(Id and Name)\Department Class(Id and Name)\obj\Debug\Department Class(Id and Name).csproj.CoreCompileInputs.cache
+D:\assignments\Department Class(Id and Name)\Department Class(Id and Name)\obj\Debug\Department Class(Id and Name).exe
+D:\assignments\Department Class(Id and Name)\Department Class(Id and Name)\obj\Debug\Department Class(Id and Name).pdb

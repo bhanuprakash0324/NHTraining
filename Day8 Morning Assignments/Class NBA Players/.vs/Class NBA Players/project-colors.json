@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23b29f15-fad6-4c0d-aaf6-a8cb8dd2359c": {
+      "ProjectGuid": "23b29f15-fad6-4c0d-aaf6-a8cb8dd2359c",
+      "DisplayName": "Class NBA Players",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

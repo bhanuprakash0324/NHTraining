@@ -1,0 +1,8 @@
+D:\assignments\List of Employees\List of Employees\bin\Debug\List of Employees.exe.config
+D:\assignments\List of Employees\List of Employees\bin\Debug\List of Employees.exe
+D:\assignments\List of Employees\List of Employees\bin\Debug\List of Employees.pdb
+D:\assignments\List of Employees\List of Employees\obj\Debug\List of Employees.csproj.AssemblyReference.cache
+D:\assignments\List of Employees\List of Employees\obj\Debug\List of Employees.csproj.SuggestedBindingRedirects.cache
+D:\assignments\List of Employees\List of Employees\obj\Debug\List of Employees.csproj.CoreCompileInputs.cache
+D:\assignments\List of Employees\List of Employees\obj\Debug\List of Employees.exe
+D:\assignments\List of Employees\List of Employees\obj\Debug\List of Employees.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "efd16648-e1fd-419e-9068-739281bddecd": {
+      "ProjectGuid": "efd16648-e1fd-419e-9068-739281bddecd",
+      "DisplayName": "Department Class(Id and Name)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+D:\assignments\List with  8 values\List with  8 values\bin\Debug\List with  8 values.exe.config
+D:\assignments\List with  8 values\List with  8 values\bin\Debug\List with  8 values.exe
+D:\assignments\List with  8 values\List with  8 values\bin\Debug\List with  8 values.pdb
+D:\assignments\List with  8 values\List with  8 values\obj\Debug\List with  8 values.csproj.AssemblyReference.cache
+D:\assignments\List with  8 values\List with  8 values\obj\Debug\List with  8 values.csproj.SuggestedBindingRedirects.cache
+D:\assignments\List with  8 values\List with  8 values\obj\Debug\List with  8 values.csproj.CoreCompileInputs.cache
+D:\assignments\List with  8 values\List with  8 values\obj\Debug\List with  8 values.exe
+D:\assignments\List with  8 values\List with  8 values\obj\Debug\List with  8 values.pdb
