@@ -1,0 +1,8 @@
+D:\assignments\MathsTasks\MathsTasks\bin\Debug\MathsTasks.exe.config
+D:\assignments\MathsTasks\MathsTasks\bin\Debug\MathsTasks.exe
+D:\assignments\MathsTasks\MathsTasks\bin\Debug\MathsTasks.pdb
+D:\assignments\MathsTasks\MathsTasks\obj\Debug\MathsTasks.csproj.AssemblyReference.cache
+D:\assignments\MathsTasks\MathsTasks\obj\Debug\MathsTasks.csproj.SuggestedBindingRedirects.cache
+D:\assignments\MathsTasks\MathsTasks\obj\Debug\MathsTasks.csproj.CoreCompileInputs.cache
+D:\assignments\MathsTasks\MathsTasks\obj\Debug\MathsTasks.exe
+D:\assignments\MathsTasks\MathsTasks\obj\Debug\MathsTasks.pdb
