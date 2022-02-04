@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4e38a2e2-c260-4417-8a1f-7d8fda37616f": {
+      "ProjectGuid": "4e38a2e2-c260-4417-8a1f-7d8fda37616f",
+      "DisplayName": "MultiLevel Inheritance",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

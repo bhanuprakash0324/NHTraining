@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05f45d3d-8d0d-4c93-87f0-10e6a41efd0a": {
+      "ProjectGuid": "05f45d3d-8d0d-4c93-87f0-10e6a41efd0a",
+      "DisplayName": "Method Overriding",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
