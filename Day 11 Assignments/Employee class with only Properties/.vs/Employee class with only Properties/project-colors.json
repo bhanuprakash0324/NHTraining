@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6c17b3b-5c70-4ca5-97bb-4be11f6ce3a9": {
+      "ProjectGuid": "e6c17b3b-5c70-4ca5-97bb-4be11f6ce3a9",
+      "DisplayName": "Employee class with only Properties",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

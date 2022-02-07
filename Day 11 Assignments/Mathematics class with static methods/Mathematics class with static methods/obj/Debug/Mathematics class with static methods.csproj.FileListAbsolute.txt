@@ -1,0 +1,7 @@
+D:\assignments\Mathematics class with static methods\Mathematics class with static methods\bin\Debug\Mathematics class with static methods.exe.config
+D:\assignments\Mathematics class with static methods\Mathematics class with static methods\bin\Debug\Mathematics class with static methods.exe
+D:\assignments\Mathematics class with static methods\Mathematics class with static methods\bin\Debug\Mathematics class with static methods.pdb
+D:\assignments\Mathematics class with static methods\Mathematics class with static methods\obj\Debug\Mathematics class with static methods.csproj.SuggestedBindingRedirects.cache
+D:\assignments\Mathematics class with static methods\Mathematics class with static methods\obj\Debug\Mathematics class with static methods.csproj.CoreCompileInputs.cache
+D:\assignments\Mathematics class with static methods\Mathematics class with static methods\obj\Debug\Mathematics class with static methods.exe
+D:\assignments\Mathematics class with static methods\Mathematics class with static methods\obj\Debug\Mathematics class with static methods.pdb

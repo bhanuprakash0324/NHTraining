@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc3b44c3-7008-4bfc-becd-7b19bbdc8566": {
+      "ProjectGuid": "bc3b44c3-7008-4bfc-becd-7b19bbdc8566",
+      "DisplayName": "Mathematics class with static methods",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
