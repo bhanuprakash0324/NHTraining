@@ -96,31 +96,31 @@ namespace Interfaces
     }
     class Traingle : IShape
     {
-        int b;
-        int height;
-        int c;
+        int s,a,b,c;
+     
         /// <summary>
         /// reading sides of triangle
         /// </summary>
          public void ReadTriangle()
         {
-            Console.WriteLine("Enter the Base of the Triangle: ");
-            b= Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter the Height of the Triangle: ");
-            height = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter the Third side of the Trainglr: ");
+            Console.WriteLine("Enter a : ");
+            a= Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter b : ");
+            b = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter c : ");
             c = Convert.ToInt32(Console.ReadLine());
+            s = (a+b+c)/2;
         }
         public int CalArea()
         {
             Console.Write("Area of the Triangle : ");
-            return b * height / 2;
+            return (int)Math.Sqrt(s * (s - a) * (s - b) * (s - c));
         }
 
         public int CalPerimeter()
         {
             Console.WriteLine("Perimeter of the Traingle : ");
-            return b + height + c;
+            return 2 * s;
         }
     }
 

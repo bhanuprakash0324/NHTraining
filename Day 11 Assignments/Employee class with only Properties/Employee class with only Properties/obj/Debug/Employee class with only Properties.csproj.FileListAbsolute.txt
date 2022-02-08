@@ -6,3 +6,11 @@ D:\assignments\Employee class with only Properties\Employee class with only Prop
 D:\assignments\Employee class with only Properties\Employee class with only Properties\obj\Debug\Employee class with only Properties.csproj.CoreCompileInputs.cache
 D:\assignments\Employee class with only Properties\Employee class with only Properties\obj\Debug\Employee class with only Properties.exe
 D:\assignments\Employee class with only Properties\Employee class with only Properties\obj\Debug\Employee class with only Properties.pdb
+D:\assignments\Day 11 Assignments\Employee class with only Properties\Employee class with only Properties\bin\Debug\Employee class with only Properties.exe.config
+D:\assignments\Day 11 Assignments\Employee class with only Properties\Employee class with only Properties\bin\Debug\Employee class with only Properties.exe
+D:\assignments\Day 11 Assignments\Employee class with only Properties\Employee class with only Properties\bin\Debug\Employee class with only Properties.pdb
+D:\assignments\Day 11 Assignments\Employee class with only Properties\Employee class with only Properties\obj\Debug\Employee class with only Properties.csproj.AssemblyReference.cache
+D:\assignments\Day 11 Assignments\Employee class with only Properties\Employee class with only Properties\obj\Debug\Employee class with only Properties.csproj.SuggestedBindingRedirects.cache
+D:\assignments\Day 11 Assignments\Employee class with only Properties\Employee class with only Properties\obj\Debug\Employee class with only Properties.csproj.CoreCompileInputs.cache
+D:\assignments\Day 11 Assignments\Employee class with only Properties\Employee class with only Properties\obj\Debug\Employee class with only Properties.exe
+D:\assignments\Day 11 Assignments\Employee class with only Properties\Employee class with only Properties\obj\Debug\Employee class with only Properties.pdb

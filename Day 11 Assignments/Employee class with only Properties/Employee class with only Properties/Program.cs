@@ -8,6 +8,7 @@ namespace Employee_class_with_only_Properties
 {
     class Employee
     {
+        string designation;
         public int Id
         { 
             get
@@ -33,32 +34,31 @@ namespace Employee_class_with_only_Properties
         }
         public string Designation
         {
-            get
-            {
-                return Designation;
-            }
+            
+
             set
             {
-                Designation = value;
+                designation = value;
             }
         }
         public int Salary 
         {
+            
             get
             {
-                return Salary;
+                return (designation == "S") ? 30000 : 60000;
+                
             }
-            set
-            {
-                Salary = value;
-            }
+
         }
     }
     internal class Program
     {
         static void Main(string[] args)
         {
-            Employee empl = new Employee();
+            Employee emp = new Employee();
+            emp.Designation = "M";
+            Console.WriteLine($"Salary : {emp.Salary}");
             Console.ReadLine();
         }
     }
