@@ -1,0 +1,7 @@
+D:\assignments\Day13assignment11\Day13assignment11\bin\Debug\Day13assignment11.exe.config
+D:\assignments\Day13assignment11\Day13assignment11\bin\Debug\Day13assignment11.exe
+D:\assignments\Day13assignment11\Day13assignment11\bin\Debug\Day13assignment11.pdb
+D:\assignments\Day13assignment11\Day13assignment11\obj\Debug\Day13assignment11.csproj.SuggestedBindingRedirects.cache
+D:\assignments\Day13assignment11\Day13assignment11\obj\Debug\Day13assignment11.csproj.CoreCompileInputs.cache
+D:\assignments\Day13assignment11\Day13assignment11\obj\Debug\Day13assignment11.exe
+D:\assignments\Day13assignment11\Day13assignment11\obj\Debug\Day13assignment11.pdb
