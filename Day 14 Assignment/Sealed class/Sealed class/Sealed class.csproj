@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A26809D6-CF23-478A-B37F-CFF96734BFE1}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <RootNamespace>DAy13Assignment5</RootNamespace>
-    <AssemblyName>DAy13Assignment5</AssemblyName>
+    <ProjectGuid>{28EC3413-E48B-403D-9EED-E6F7842CB729}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Sealed_class</RootNamespace>
+    <AssemblyName>Sealed class</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -31,9 +31,6 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-  </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject />
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

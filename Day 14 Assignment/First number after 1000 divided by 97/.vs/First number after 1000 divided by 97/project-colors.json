@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "186f41ca-ff1c-4f91-be14-f5f21ef4e72b": {
+      "ProjectGuid": "186f41ca-ff1c-4f91-be14-f5f21ef4e72b",
+      "DisplayName": "First number after 1000 divided by 97",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

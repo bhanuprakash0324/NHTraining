@@ -1,0 +1,7 @@
+D:\assignments\Prime Number using Break\Prime Number using Break\bin\Debug\Prime Number using Break.exe.config
+D:\assignments\Prime Number using Break\Prime Number using Break\bin\Debug\Prime Number using Break.exe
+D:\assignments\Prime Number using Break\Prime Number using Break\bin\Debug\Prime Number using Break.pdb
+D:\assignments\Prime Number using Break\Prime Number using Break\obj\Debug\Prime Number using Break.csproj.SuggestedBindingRedirects.cache
+D:\assignments\Prime Number using Break\Prime Number using Break\obj\Debug\Prime Number using Break.csproj.CoreCompileInputs.cache
+D:\assignments\Prime Number using Break\Prime Number using Break\obj\Debug\Prime Number using Break.exe
+D:\assignments\Prime Number using Break\Prime Number using Break\obj\Debug\Prime Number using Break.pdb

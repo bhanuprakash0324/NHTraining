@@ -1,0 +1,7 @@
+D:\assignments\First number after 1000 divided by 97\First number after 1000 divided by 97\bin\Debug\First number after 1000 divided by 97.exe.config
+D:\assignments\First number after 1000 divided by 97\First number after 1000 divided by 97\bin\Debug\First number after 1000 divided by 97.exe
+D:\assignments\First number after 1000 divided by 97\First number after 1000 divided by 97\bin\Debug\First number after 1000 divided by 97.pdb
+D:\assignments\First number after 1000 divided by 97\First number after 1000 divided by 97\obj\Debug\First number after 1000 divided by 97.csproj.SuggestedBindingRedirects.cache
+D:\assignments\First number after 1000 divided by 97\First number after 1000 divided by 97\obj\Debug\First number after 1000 divided by 97.csproj.CoreCompileInputs.cache
+D:\assignments\First number after 1000 divided by 97\First number after 1000 divided by 97\obj\Debug\First number after 1000 divided by 97.exe
+D:\assignments\First number after 1000 divided by 97\First number after 1000 divided by 97\obj\Debug\First number after 1000 divided by 97.pdb

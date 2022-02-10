@@ -1,0 +1,8 @@
+D:\assignments\Property and Auto implemented Property\Property and Auto implemented Property\bin\Debug\Property and Auto implemented Property.exe.config
+D:\assignments\Property and Auto implemented Property\Property and Auto implemented Property\bin\Debug\Property and Auto implemented Property.exe
+D:\assignments\Property and Auto implemented Property\Property and Auto implemented Property\bin\Debug\Property and Auto implemented Property.pdb
+D:\assignments\Property and Auto implemented Property\Property and Auto implemented Property\obj\Debug\Property and Auto implemented Property.csproj.AssemblyReference.cache
+D:\assignments\Property and Auto implemented Property\Property and Auto implemented Property\obj\Debug\Property and Auto implemented Property.csproj.SuggestedBindingRedirects.cache
+D:\assignments\Property and Auto implemented Property\Property and Auto implemented Property\obj\Debug\Property and Auto implemented Property.csproj.CoreCompileInputs.cache
+D:\assignments\Property and Auto implemented Property\Property and Auto implemented Property\obj\Debug\Property and Auto implemented Property.exe
+D:\assignments\Property and Auto implemented Property\Property and Auto implemented Property\obj\Debug\Property and Auto implemented Property.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A26809D6-CF23-478A-B37F-CFF96734BFE1}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <RootNamespace>DAy13Assignment5</RootNamespace>
-    <AssemblyName>DAy13Assignment5</AssemblyName>
+    <ProjectGuid>{F22F7ADA-3AC4-49DF-A980-2772DCEBAB09}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Prime_Number_using_Break</RootNamespace>
+    <AssemblyName>Prime Number using Break</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -31,9 +31,6 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-  </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject />
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

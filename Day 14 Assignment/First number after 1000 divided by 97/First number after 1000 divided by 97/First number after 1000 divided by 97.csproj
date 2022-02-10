@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A26809D6-CF23-478A-B37F-CFF96734BFE1}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <RootNamespace>DAy13Assignment5</RootNamespace>
-    <AssemblyName>DAy13Assignment5</AssemblyName>
+    <ProjectGuid>{186F41CA-FF1C-4F91-BE14-F5F21EF4E72B}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>First_number_after_1000_divided_by_97</RootNamespace>
+    <AssemblyName>First number after 1000 divided by 97</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -31,9 +31,6 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-  </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject />
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
