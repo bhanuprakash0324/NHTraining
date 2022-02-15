@@ -1,0 +1,16 @@
+D:\assignments\BhanuSLibrary\Windows app\bin\Debug\Windows app.exe.config
+D:\assignments\BhanuSLibrary\Windows app\bin\Debug\Windows app.exe
+D:\assignments\BhanuSLibrary\Windows app\bin\Debug\Windows app.pdb
+D:\assignments\BhanuSLibrary\Windows app\bin\Debug\BhanuSLibrary.dll
+D:\assignments\BhanuSLibrary\Windows app\bin\Debug\Publiclibrary.dll
+D:\assignments\BhanuSLibrary\Windows app\bin\Debug\BhanuSLibrary.pdb
+D:\assignments\BhanuSLibrary\Windows app\bin\Debug\Publiclibrary.pdb
+D:\assignments\BhanuSLibrary\Windows app\obj\Debug\Windows app.csproj.AssemblyReference.cache
+D:\assignments\BhanuSLibrary\Windows app\obj\Debug\Windows app.csproj.SuggestedBindingRedirects.cache
+D:\assignments\BhanuSLibrary\Windows app\obj\Debug\Windows_app.Form1.resources
+D:\assignments\BhanuSLibrary\Windows app\obj\Debug\Windows_app.Properties.Resources.resources
+D:\assignments\BhanuSLibrary\Windows app\obj\Debug\Windows app.csproj.GenerateResource.cache
+D:\assignments\BhanuSLibrary\Windows app\obj\Debug\Windows app.csproj.CoreCompileInputs.cache
+D:\assignments\BhanuSLibrary\Windows app\obj\Debug\Windows app.csproj.CopyComplete
+D:\assignments\BhanuSLibrary\Windows app\obj\Debug\Windows app.exe
+D:\assignments\BhanuSLibrary\Windows app\obj\Debug\Windows app.pdb

@@ -1,0 +1,6 @@
+D:\assignments\BhanuSLibrary\BhanuSLibrary\bin\Debug\BhanuSLibrary.dll
+D:\assignments\BhanuSLibrary\BhanuSLibrary\bin\Debug\BhanuSLibrary.pdb
+D:\assignments\BhanuSLibrary\BhanuSLibrary\obj\Debug\BhanuSLibrary.csproj.AssemblyReference.cache
+D:\assignments\BhanuSLibrary\BhanuSLibrary\obj\Debug\BhanuSLibrary.csproj.CoreCompileInputs.cache
+D:\assignments\BhanuSLibrary\BhanuSLibrary\obj\Debug\BhanuSLibrary.dll
+D:\assignments\BhanuSLibrary\BhanuSLibrary\obj\Debug\BhanuSLibrary.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95ad7c76-c447-4b6b-ab2c-89c1f7379e9b": {
+      "ProjectGuid": "95ad7c76-c447-4b6b-ab2c-89c1f7379e9b",
+      "DisplayName": "Copy from one folder to another with schedule time",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+D:\assignments\FactorialUsingOOPs\FactorialUsingOOPs\bin\Debug\FactorialUsingOOPs.exe.config
+D:\assignments\FactorialUsingOOPs\FactorialUsingOOPs\bin\Debug\FactorialUsingOOPs.exe
+D:\assignments\FactorialUsingOOPs\FactorialUsingOOPs\bin\Debug\FactorialUsingOOPs.pdb
+D:\assignments\FactorialUsingOOPs\FactorialUsingOOPs\obj\Debug\FactorialUsingOOPs.csproj.SuggestedBindingRedirects.cache
+D:\assignments\FactorialUsingOOPs\FactorialUsingOOPs\obj\Debug\FactorialUsingOOPs.csproj.CoreCompileInputs.cache
+D:\assignments\FactorialUsingOOPs\FactorialUsingOOPs\obj\Debug\FactorialUsingOOPs.exe
+D:\assignments\FactorialUsingOOPs\FactorialUsingOOPs\obj\Debug\FactorialUsingOOPs.pdb
+D:\assignments\FactorialUsingOOPs\FactorialUsingOOPs\obj\Debug\FactorialUsingOOPs.csproj.AssemblyReference.cache

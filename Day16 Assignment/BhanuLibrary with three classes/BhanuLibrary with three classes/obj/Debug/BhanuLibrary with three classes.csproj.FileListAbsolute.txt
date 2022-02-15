@@ -1,0 +1,5 @@
+D:\assignments\BhanuLibrary with three classes\BhanuLibrary with three classes\bin\Debug\BhanuLibrary with three classes.dll
+D:\assignments\BhanuLibrary with three classes\BhanuLibrary with three classes\bin\Debug\BhanuLibrary with three classes.pdb
+D:\assignments\BhanuLibrary with three classes\BhanuLibrary with three classes\obj\Debug\BhanuLibrary with three classes.csproj.CoreCompileInputs.cache
+D:\assignments\BhanuLibrary with three classes\BhanuLibrary with three classes\obj\Debug\BhanuLibrary with three classes.dll
+D:\assignments\BhanuLibrary with three classes\BhanuLibrary with three classes\obj\Debug\BhanuLibrary with three classes.pdb

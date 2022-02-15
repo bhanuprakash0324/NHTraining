@@ -1,0 +1,8 @@
+D:\assignments\PalindromeOrNot using OOPs\PalindromeOrNot using OOPs\bin\Debug\PalindromeOrNot using OOPs.exe.config
+D:\assignments\PalindromeOrNot using OOPs\PalindromeOrNot using OOPs\bin\Debug\PalindromeOrNot using OOPs.exe
+D:\assignments\PalindromeOrNot using OOPs\PalindromeOrNot using OOPs\bin\Debug\PalindromeOrNot using OOPs.pdb
+D:\assignments\PalindromeOrNot using OOPs\PalindromeOrNot using OOPs\obj\Debug\PalindromeOrNot using OOPs.csproj.AssemblyReference.cache
+D:\assignments\PalindromeOrNot using OOPs\PalindromeOrNot using OOPs\obj\Debug\PalindromeOrNot using OOPs.csproj.SuggestedBindingRedirects.cache
+D:\assignments\PalindromeOrNot using OOPs\PalindromeOrNot using OOPs\obj\Debug\PalindromeOrNot using OOPs.csproj.CoreCompileInputs.cache
+D:\assignments\PalindromeOrNot using OOPs\PalindromeOrNot using OOPs\obj\Debug\PalindromeOrNot using OOPs.exe
+D:\assignments\PalindromeOrNot using OOPs\PalindromeOrNot using OOPs\obj\Debug\PalindromeOrNot using OOPs.pdb

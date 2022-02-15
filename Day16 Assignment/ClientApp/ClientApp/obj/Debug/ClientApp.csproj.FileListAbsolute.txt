@@ -1,0 +1,11 @@
+D:\assignments\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\assignments\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+D:\assignments\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\assignments\ClientApp\ClientApp\bin\Debug\BhanuLibrary with three classes.dll
+D:\assignments\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+D:\assignments\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+D:\assignments\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\assignments\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+D:\assignments\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\assignments\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+D:\assignments\ClientApp\ClientApp\bin\Debug\BhanuLibrary with three classes.pdb

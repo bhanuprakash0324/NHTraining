@@ -1,0 +1,8 @@
+D:\assignments\Copy from one folder to another with schedule time\Copy from one folder to another with schedule time\bin\Debug\Copy from one folder to another with schedule time.exe.config
+D:\assignments\Copy from one folder to another with schedule time\Copy from one folder to another with schedule time\bin\Debug\Copy from one folder to another with schedule time.exe
+D:\assignments\Copy from one folder to another with schedule time\Copy from one folder to another with schedule time\bin\Debug\Copy from one folder to another with schedule time.pdb
+D:\assignments\Copy from one folder to another with schedule time\Copy from one folder to another with schedule time\obj\Debug\Copy from one folder to another with schedule time.csproj.AssemblyReference.cache
+D:\assignments\Copy from one folder to another with schedule time\Copy from one folder to another with schedule time\obj\Debug\Copy from one folder to another with schedule time.csproj.SuggestedBindingRedirects.cache
+D:\assignments\Copy from one folder to another with schedule time\Copy from one folder to another with schedule time\obj\Debug\Copy from one folder to another with schedule time.csproj.CoreCompileInputs.cache
+D:\assignments\Copy from one folder to another with schedule time\Copy from one folder to another with schedule time\obj\Debug\Copy from one folder to another with schedule time.exe
+D:\assignments\Copy from one folder to another with schedule time\Copy from one folder to another with schedule time\obj\Debug\Copy from one folder to another with schedule time.pdb

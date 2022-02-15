@@ -1,0 +1,8 @@
+D:\assignments\PrintHello using OOPS\PrintHello using OOPS\bin\Debug\PrintHello using OOPS.exe.config
+D:\assignments\PrintHello using OOPS\PrintHello using OOPS\bin\Debug\PrintHello using OOPS.exe
+D:\assignments\PrintHello using OOPS\PrintHello using OOPS\bin\Debug\PrintHello using OOPS.pdb
+D:\assignments\PrintHello using OOPS\PrintHello using OOPS\obj\Debug\PrintHello using OOPS.csproj.AssemblyReference.cache
+D:\assignments\PrintHello using OOPS\PrintHello using OOPS\obj\Debug\PrintHello using OOPS.csproj.SuggestedBindingRedirects.cache
+D:\assignments\PrintHello using OOPS\PrintHello using OOPS\obj\Debug\PrintHello using OOPS.csproj.CoreCompileInputs.cache
+D:\assignments\PrintHello using OOPS\PrintHello using OOPS\obj\Debug\PrintHello using OOPS.exe
+D:\assignments\PrintHello using OOPS\PrintHello using OOPS\obj\Debug\PrintHello using OOPS.pdb

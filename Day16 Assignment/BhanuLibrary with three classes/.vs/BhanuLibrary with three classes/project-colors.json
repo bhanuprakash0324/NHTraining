@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5700f03e-7a15-497d-a1a6-bf5890747d5a": {
+      "ProjectGuid": "5700f03e-7a15-497d-a1a6-bf5890747d5a",
+      "DisplayName": "BhanuLibrary with three classes",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

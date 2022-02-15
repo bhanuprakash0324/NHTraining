@@ -1,8 +1,0 @@
-D:\assignments\Customer and Product classes\Customer and Product classes\bin\Debug\Customer and Product classes.exe.config
-D:\assignments\Customer and Product classes\Customer and Product classes\bin\Debug\Customer and Product classes.exe
-D:\assignments\Customer and Product classes\Customer and Product classes\bin\Debug\Customer and Product classes.pdb
-D:\assignments\Customer and Product classes\Customer and Product classes\obj\Debug\Customer and Product classes.csproj.AssemblyReference.cache
-D:\assignments\Customer and Product classes\Customer and Product classes\obj\Debug\Customer and Product classes.csproj.SuggestedBindingRedirects.cache
-D:\assignments\Customer and Product classes\Customer and Product classes\obj\Debug\Customer and Product classes.csproj.CoreCompileInputs.cache
-D:\assignments\Customer and Product classes\Customer and Product classes\obj\Debug\Customer and Product classes.exe
-D:\assignments\Customer and Product classes\Customer and Product classes\obj\Debug\Customer and Product classes.pdb

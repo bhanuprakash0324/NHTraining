@@ -1,0 +1,13 @@
+D:\assignments\BhanuSLibrary\ClientApp\bin\Debug\ClientApp.exe.config
+D:\assignments\BhanuSLibrary\ClientApp\bin\Debug\ClientApp.exe
+D:\assignments\BhanuSLibrary\ClientApp\bin\Debug\ClientApp.pdb
+D:\assignments\BhanuSLibrary\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+D:\assignments\BhanuSLibrary\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+D:\assignments\BhanuSLibrary\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\assignments\BhanuSLibrary\ClientApp\obj\Debug\ClientApp.exe
+D:\assignments\BhanuSLibrary\ClientApp\obj\Debug\ClientApp.pdb
+D:\assignments\BhanuSLibrary\ClientApp\bin\Debug\BhanuSLibrary.dll
+D:\assignments\BhanuSLibrary\ClientApp\bin\Debug\Publiclibrary.dll
+D:\assignments\BhanuSLibrary\ClientApp\bin\Debug\BhanuSLibrary.pdb
+D:\assignments\BhanuSLibrary\ClientApp\bin\Debug\Publiclibrary.pdb
+D:\assignments\BhanuSLibrary\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
