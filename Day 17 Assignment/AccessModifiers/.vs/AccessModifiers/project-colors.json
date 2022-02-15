@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "82dbbf34-e8f3-416a-9d69-34a942065639": {
+      "ProjectGuid": "82dbbf34-e8f3-416a-9d69-34a942065639",
+      "DisplayName": "AccessModifiers",
+      "ColorIndex": 0
+    },
+    "68c62c1b-5d09-4ac6-a251-d42b8fe50041": {
+      "ProjectGuid": "68c62c1b-5d09-4ac6-a251-d42b8fe50041",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
