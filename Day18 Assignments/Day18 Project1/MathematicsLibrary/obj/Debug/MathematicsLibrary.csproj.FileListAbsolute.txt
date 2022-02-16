@@ -1,0 +1,6 @@
+D:\assignments\Day18 Project1\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+D:\assignments\Day18 Project1\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+D:\assignments\Day18 Project1\MathematicsLibrary\obj\Debug\MathematicsLibrary.csproj.AssemblyReference.cache
+D:\assignments\Day18 Project1\MathematicsLibrary\obj\Debug\MathematicsLibrary.csproj.CoreCompileInputs.cache
+D:\assignments\Day18 Project1\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+D:\assignments\Day18 Project1\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb

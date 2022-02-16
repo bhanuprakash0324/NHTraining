@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e63139f6-dbd4-49d3-8e74-da4b5223c0b0": {
+      "ProjectGuid": "e63139f6-dbd4-49d3-8e74-da4b5223c0b0",
+      "DisplayName": "Day18 Project1",
+      "ColorIndex": 0
+    },
+    "bd3804a2-582d-4a8b-8cff-326e7bace51a": {
+      "ProjectGuid": "bd3804a2-582d-4a8b-8cff-326e7bace51a",
+      "DisplayName": "MathematicsLibrary",
+      "ColorIndex": 1
+    },
+    "c4eddb54-1c59-4ad3-9415-6b3b5533e0ae": {
+      "ProjectGuid": "c4eddb54-1c59-4ad3-9415-6b3b5533e0ae",
+      "DisplayName": "WindowsApp",
+      "ColorIndex": 2
+    },
+    "51e2f872-be95-4408-9292-2af841d289f3": {
+      "ProjectGuid": "51e2f872-be95-4408-9292-2af841d289f3",
+      "DisplayName": "MathematicsLibraryTests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

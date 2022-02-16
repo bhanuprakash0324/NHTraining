@@ -1,0 +1,64 @@
+{
+   "Products": {
+      "Product1": {
+         "_Name": "BasketBall",
+         "_Cost": "2500",
+         "_Distributor": "Ram Sports",
+         "_Manufacturer": "NBASports"
+      },
+      "Product2": {
+         "_Name": "Vapor1.3 Bat",
+         "_Cost": "3500",
+         "_Distributor": "Amazon",
+         "_Manufacturer": "Gray Nocholls"
+      },
+      "Product3": {
+         "_Name": "AlphaGen CricketBat",
+         "_Cost": "2500",
+         "_Distributor": "Amazon",
+         "_Manufacturer": "Gray Nicholls"
+      },
+      "Product4": {
+         "_Name": "NanoFlare 800",
+         "_Cost": "4500",
+         "_Distributor": "Flipkart",
+         "_Manufacturer": "Yonex"
+      },
+      "Product5": {
+         "_Name": "Yonex Astr0x 99",
+         "_Cost": "6500",
+         "_Distributor": "Flipkart",
+         "_Manufacturer": "Yonex"
+      },
+      "Product6": {
+         "_Name": "Shield30 CricketBall",
+         "_Cost": "500",
+         "_Distributor": "Sachin Sports",
+         "_Manufacturer": "SG"
+      },
+      "Product7": {
+         "_Name": "AJ BOuncer",
+         "_Cost": "700",
+         "_Distributor": "Sacin Sports",
+         "_Manufacturer": "SG"
+      },
+      "Product8": {
+         "_Name": "KneeCap",
+         "_Cost": "500",
+         "_Distributor": "Krishna Sports",
+         "_Manufacturer": "New BAlance"
+      },
+      "Product9": {
+         "_Name": "Helmet",
+         "_Cost": "2000",
+         "_Distributor": "Ram Sports",
+         "_Manufacturer": "SG"
+      },
+      "Product10": {
+         "_Name": "Lebron BasketBall",
+         "_Cost": "12500",
+         "_Distributor": "Lebron Stores",
+         "_Manufacturer": "Lebron Sports"
+      }
+   }
+}

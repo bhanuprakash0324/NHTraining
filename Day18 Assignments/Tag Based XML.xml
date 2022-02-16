@@ -1,0 +1,62 @@
+<Products>
+    <Product1>
+        <Name>BasketBall</Name>
+        <Cost>2500</Cost>
+        <Distributor>Ram Sports</Distributor>
+        <Manufacturer>NBASports</Manufacturer>
+    </Product1>
+    <Product2>
+        <Name>Vapor 1.3 Bat</Name>
+        <Cost>3500</Cost>
+        <Distributor>Amazon</Distributor>
+        <Manufacturer>Gray Nicholls</Manufacturer>
+    </Product2>
+    <Product3>
+        <Name>Alpha Gen Cricket Bat</Name>
+        <Cost>3000</Cost>
+        <Distributor>Amazon</Distributor>
+        <Manufacturer>Gray Nicholls</Manufacturer>
+    </Product3>
+    <Product4>
+        <Name>NanoFlare 800</Name>
+        <Cost>4000</Cost>
+        <Distributor>Flipkart</Distributor>
+        <Manufacturer>Yonex</Manufacturer>
+    </Product4>
+    <Product5>
+        <Name>Yonex Astrox 99</Name>
+        <Cost>7000</Cost>
+        <Distributor>Flipkart</Distributor>
+        <Manufacturer>Yonex</Manufacturer>
+    </Product5>
+    <Product6>
+        <Name>Shield 30 Cricket Ball</Name>
+        <Cost>750</Cost>
+        <Distributor>Sachin Sports</Distributor>
+        <Manufacturer>SG</Manufacturer>
+    </Product6>
+    <Product7>
+        <Name>AJ Bouncer Ball</Name>
+        <Cost>500</Cost>
+        <Distributor>Ram Sports</Distributor>
+        <Manufacturer>SG</Manufacturer>
+    </Product7>
+    <Product8>
+        <Name>Knee Cap</Name>
+        <Cost>250</Cost>
+        <Distributor>Krishna Sports</Distributor>
+        <Manufacturer>New Balance</Manufacturer>
+    </Product8>
+    <Product9>
+        <Name>Cricket Helmet</Name>
+        <Cost>1500</Cost>
+        <Distributor>Ram Sports</Distributor>
+        <Manufacturer>SG</Manufacturer>
+    </Product9>
+    <Product10>
+        <Name>Lebron BasketBall</Name>
+        <Cost>12500</Cost>
+        <Distributor>Lebron Stores</Distributor>
+        <Manufacturer>Lebron Sports</Manufacturer>
+    </Product10>
+</Products>

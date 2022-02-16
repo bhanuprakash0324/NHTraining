@@ -1,0 +1,14 @@
+D:\assignments\Day18 Project1\WindowsApp\bin\Debug\WindowsApp.exe.config
+D:\assignments\Day18 Project1\WindowsApp\bin\Debug\WindowsApp.exe
+D:\assignments\Day18 Project1\WindowsApp\bin\Debug\WindowsApp.pdb
+D:\assignments\Day18 Project1\WindowsApp\bin\Debug\MathematicsLibrary.dll
+D:\assignments\Day18 Project1\WindowsApp\bin\Debug\MathematicsLibrary.pdb
+D:\assignments\Day18 Project1\WindowsApp\obj\Debug\WindowsApp.csproj.AssemblyReference.cache
+D:\assignments\Day18 Project1\WindowsApp\obj\Debug\WindowsApp.csproj.SuggestedBindingRedirects.cache
+D:\assignments\Day18 Project1\WindowsApp\obj\Debug\WindowsApp.Form1.resources
+D:\assignments\Day18 Project1\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+D:\assignments\Day18 Project1\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+D:\assignments\Day18 Project1\WindowsApp\obj\Debug\WindowsApp.csproj.CoreCompileInputs.cache
+D:\assignments\Day18 Project1\WindowsApp\obj\Debug\WindowsApp.csproj.CopyComplete
+D:\assignments\Day18 Project1\WindowsApp\obj\Debug\WindowsApp.exe
+D:\assignments\Day18 Project1\WindowsApp\obj\Debug\WindowsApp.pdb
