@@ -1,0 +1,11 @@
+D:\assignments\WindowsClientApp\WindowsClientApp\bin\Debug\WindowsClientApp.exe.config
+D:\assignments\WindowsClientApp\WindowsClientApp\bin\Debug\WindowsClientApp.exe
+D:\assignments\WindowsClientApp\WindowsClientApp\bin\Debug\WindowsClientApp.pdb
+D:\assignments\WindowsClientApp\WindowsClientApp\obj\Debug\WindowsClientApp.csproj.AssemblyReference.cache
+D:\assignments\WindowsClientApp\WindowsClientApp\obj\Debug\WindowsClientApp.csproj.SuggestedBindingRedirects.cache
+D:\assignments\WindowsClientApp\WindowsClientApp\obj\Debug\WindowsClientApp.Form1.resources
+D:\assignments\WindowsClientApp\WindowsClientApp\obj\Debug\WindowsClientApp.Properties.Resources.resources
+D:\assignments\WindowsClientApp\WindowsClientApp\obj\Debug\WindowsClientApp.csproj.GenerateResource.cache
+D:\assignments\WindowsClientApp\WindowsClientApp\obj\Debug\WindowsClientApp.csproj.CoreCompileInputs.cache
+D:\assignments\WindowsClientApp\WindowsClientApp\obj\Debug\WindowsClientApp.exe
+D:\assignments\WindowsClientApp\WindowsClientApp\obj\Debug\WindowsClientApp.pdb

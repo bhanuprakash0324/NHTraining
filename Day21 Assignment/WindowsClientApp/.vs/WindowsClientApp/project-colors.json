@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c15d531-3e0f-41cf-a197-ab595445c919": {
+      "ProjectGuid": "5c15d531-3e0f-41cf-a197-ab595445c919",
+      "DisplayName": "WindowsClientApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
