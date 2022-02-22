@@ -1,0 +1,13 @@
+D:\assignments\EmoloyeesManagementApplication\BhanuClientApp\bin\Debug\BhanuClientApp.exe.config
+D:\assignments\EmoloyeesManagementApplication\BhanuClientApp\bin\Debug\BhanuClientApp.exe
+D:\assignments\EmoloyeesManagementApplication\BhanuClientApp\bin\Debug\BhanuClientApp.pdb
+D:\assignments\EmoloyeesManagementApplication\BhanuClientApp\obj\Debug\BhanuClientApp.csproj.AssemblyReference.cache
+D:\assignments\EmoloyeesManagementApplication\BhanuClientApp\obj\Debug\BhanuClientApp.csproj.SuggestedBindingRedirects.cache
+D:\assignments\EmoloyeesManagementApplication\BhanuClientApp\obj\Debug\BhanuClientApp.csproj.CoreCompileInputs.cache
+D:\assignments\EmoloyeesManagementApplication\BhanuClientApp\obj\Debug\BhanuClientApp.exe
+D:\assignments\EmoloyeesManagementApplication\BhanuClientApp\obj\Debug\BhanuClientApp.pdb
+D:\assignments\EmoloyeesManagementApplication\BhanuClientApp\bin\Debug\BusinessLogicLibraray.dll
+D:\assignments\EmoloyeesManagementApplication\BhanuClientApp\bin\Debug\DataAccessLibraray.dll
+D:\assignments\EmoloyeesManagementApplication\BhanuClientApp\bin\Debug\BusinessLogicLibraray.pdb
+D:\assignments\EmoloyeesManagementApplication\BhanuClientApp\bin\Debug\DataAccessLibraray.pdb
+D:\assignments\EmoloyeesManagementApplication\BhanuClientApp\obj\Debug\BhanuClientApp.csproj.CopyComplete

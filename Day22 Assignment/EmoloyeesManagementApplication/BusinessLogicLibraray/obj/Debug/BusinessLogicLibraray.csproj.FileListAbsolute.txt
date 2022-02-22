@@ -1,0 +1,9 @@
+D:\assignments\EmoloyeesManagementApplication\BusinessLogicLibraray\bin\Debug\BusinessLogicLibraray.dll
+D:\assignments\EmoloyeesManagementApplication\BusinessLogicLibraray\bin\Debug\BusinessLogicLibraray.pdb
+D:\assignments\EmoloyeesManagementApplication\BusinessLogicLibraray\bin\Debug\DataAccessLibraray.dll
+D:\assignments\EmoloyeesManagementApplication\BusinessLogicLibraray\bin\Debug\DataAccessLibraray.pdb
+D:\assignments\EmoloyeesManagementApplication\BusinessLogicLibraray\obj\Debug\BusinessLogicLibraray.csproj.AssemblyReference.cache
+D:\assignments\EmoloyeesManagementApplication\BusinessLogicLibraray\obj\Debug\BusinessLogicLibraray.csproj.CoreCompileInputs.cache
+D:\assignments\EmoloyeesManagementApplication\BusinessLogicLibraray\obj\Debug\BusinessLogicLibraray.csproj.CopyComplete
+D:\assignments\EmoloyeesManagementApplication\BusinessLogicLibraray\obj\Debug\BusinessLogicLibraray.dll
+D:\assignments\EmoloyeesManagementApplication\BusinessLogicLibraray\obj\Debug\BusinessLogicLibraray.pdb

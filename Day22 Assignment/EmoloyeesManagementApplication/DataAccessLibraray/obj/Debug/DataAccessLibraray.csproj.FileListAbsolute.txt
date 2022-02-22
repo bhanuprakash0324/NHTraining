@@ -1,0 +1,6 @@
+D:\assignments\EmoloyeesManagementApplication\DataAccessLibraray\bin\Debug\DataAccessLibraray.dll
+D:\assignments\EmoloyeesManagementApplication\DataAccessLibraray\bin\Debug\DataAccessLibraray.pdb
+D:\assignments\EmoloyeesManagementApplication\DataAccessLibraray\obj\Debug\DataAccessLibraray.csproj.AssemblyReference.cache
+D:\assignments\EmoloyeesManagementApplication\DataAccessLibraray\obj\Debug\DataAccessLibraray.csproj.CoreCompileInputs.cache
+D:\assignments\EmoloyeesManagementApplication\DataAccessLibraray\obj\Debug\DataAccessLibraray.dll
+D:\assignments\EmoloyeesManagementApplication\DataAccessLibraray\obj\Debug\DataAccessLibraray.pdb
